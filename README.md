@@ -33,4 +33,4 @@ Testmiljø for APIet er tilgjengelig på: https://testapi.fiskeridir.no/biomass-
 * For tjenestetilbydere må klienten opprettes for en syntetisk organisasjon som skal representere organisasjonen til tjenestetilbyderen. Organisasjonen til tjenestetilbyderen må også ha fått delegert tilgang i testmiljøet til Altinn av den som det skal rapporteres på vegne av.
 * Rapportering av biomasse i testmiljøet krever bruk av gyldige lokaliteter i dette miljøet. Disse vil dere også få tildelt sammen med testorganisasjon av oss.
 
-
+Kontakt epost: akva-hjelp@fiskeridir.no

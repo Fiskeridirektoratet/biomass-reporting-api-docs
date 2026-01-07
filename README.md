@@ -19,7 +19,7 @@ Produksjonsmiljø for APIet er tilgjengelig på: https://api.fiskeridir.no/bioma
 
 * Gjelder leverandør av fagsystem med integrasjon mot Fiskeridirektoratet’s APIer.
 * Din kunde må ha tildelt API-tilgang i Altinn til leverandør.
-* Leverandør av system må opprette en Maskinporten med scope `fdir:biomassreportingapi`.
+* Leverandør av system må opprette en integrasjon (en OAuth 2.0-klient) i Maskinporten med scope `fdir:biomassreportingapi`.
 * Samme klient kan brukes til å rapportere for flere kunder ved å endre `consumer_org` verdien.
 * Se `https://samarbeid.digdir.no/maskinporten/ta-i-bruk-maskinporten/97` under “Leverandør”.
 

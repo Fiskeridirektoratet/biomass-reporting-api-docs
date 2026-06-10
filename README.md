@@ -11,13 +11,13 @@ Produksjonsmiljø for APIet er tilgjengelig på: https://api.fiskeridir.no/bioma
 
 ### Rapporteringspliktig som ønsker å benytte en tjenesteleverandør
 
-* Dere må gi “Tilgang til Programmeringsgrensesnitt - API” i Altinn til tjenesteleverandør.
-* Søk og velg “Full tilgang til biomasserapportering API”
-* Se `https://samarbeid.digdir.no/maskinporten/ta-i-bruk-maskinporten/97` under “Konsument - delegert til leverandør.”
+* Dere må gi fullmakt til API i Altinn til tjenesteleverandør. Følg veiviser på https://info.altinn.no/hjelp/ny-tilgangsstyring/maskinportenadministrasjon/ for å gi ansatte tilgang til dette.
+* Søk og velg fullmakten “Full tilgang til biomasserapportering API”
+* Ta kontakt med tjenesteleverandør som leverer integrasjonen, slik at de kan rapportere på vegne av dere.
 
 ### En tjenesteleverandør som vil tilby innsending for rapporteringspliktige
 
-* Gjelder leverandør av fagsystem med integrasjon mot Fiskeridirektoratet’s APIer.
+* Gjelder leverandør av system med integrasjon mot Fiskeridirektoratet’s APIer.
 * Din kunde må ha tildelt API-tilgang i Altinn til leverandør.
 * Leverandør av system må opprette en integrasjon (en OAuth 2.0-klient) i Maskinporten med scope `fdir:biomassreportingapi`.
 * Samme klient kan brukes til å rapportere for flere kunder ved å endre `consumer_org` verdien.

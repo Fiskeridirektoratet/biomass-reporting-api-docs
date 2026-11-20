@@ -34,3 +34,7 @@ Testmiljø for APIet er tilgjengelig på: https://testapi.fiskeridir.no/biomass-
 * Rapportering av biomasse i testmiljøet krever bruk av gyldige lokaliteter i dette miljøet. Disse vil dere også få tildelt sammen med testorganisasjon av oss.
 
 Kontakt epost: akva-hjelp@fiskeridir.no
+
+
+[2026-11-20: Nye flyter i Testmiljø](Flyter.md)
+

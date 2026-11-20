@@ -7,13 +7,14 @@
 
 
 ## Innsending av beholdningsdata
-* Innsending av beholdningsdata er tilgjengelig i testmiljø og skal sendes inn på api endepunkt https://testapi.fiskeridir.no/biomass-reporting-api-protected/api/v1/beholdning
+
+Innsending av beholdningsdata er tilgjengelig i testmiljø
 
 * Teknisk dokumentasjon av API: https://testapi.fiskeridir.no/biomass-reporting-api-protected/swagger-ui/index.html#/Beholdning/postBeholdning
 
 ## Innsending av tapsdata
    
-* Innsending av tapsdata er tilgjengelig i testmiljø og skal sendes inn på api endepunkt https://testapi.fiskeridir.no/biomass-reporting-api-protected/api/v1/tap
+Innsending av tapsdata er tilgjengelig i testmiljø
 
-* Dokumentasjon av API: https://testapi.fiskeridir.no/biomass-reporting-api-protected/swagger-ui/index.html#/Tap/postTap
+* Teknisk dokumentasjon av API: https://testapi.fiskeridir.no/biomass-reporting-api-protected/swagger-ui/index.html#/Tap/postTap
 
